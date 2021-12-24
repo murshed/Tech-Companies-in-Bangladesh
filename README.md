@@ -1,6 +1,7 @@
-# Tech-Companies-in-Bangladesh
+= Tech Companies in Bangladesh
 
 List of tech companies to help developers to find jobs.
+
 
 === How to add a new Company?
 
