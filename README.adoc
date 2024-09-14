@@ -32,6 +32,11 @@ List of tech companies to help developers to find jobs.
 |Golang, Docker, Kubernetes, Vue.js
 |https://www.appscode.com/[Website]
 
+|Arollo Tech Lmited.
+|Pritam-Zaman Tower, 37/2 (8th Floor), Puran Palton (Box Calvert Road),Dhaka-1000.
+|Java, Spring, Dart, Flutter
+|https://www.arollotech.com/[Website]
+
 |Augmedix Inc.
 |SS Steel Building, Suite 203, 17/C Panthapath, Dhaka
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
